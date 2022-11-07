@@ -1,0 +1,8 @@
+E:\проекты\functio\functio\bin\Debug\functio.exe.config
+E:\проекты\functio\functio\bin\Debug\functio.exe
+E:\проекты\functio\functio\bin\Debug\functio.pdb
+E:\проекты\functio\functio\obj\Debug\functio.csproj.AssemblyReference.cache
+E:\проекты\functio\functio\obj\Debug\functio.csproj.SuggestedBindingRedirects.cache
+E:\проекты\functio\functio\obj\Debug\functio.csproj.CoreCompileInputs.cache
+E:\проекты\functio\functio\obj\Debug\functio.exe
+E:\проекты\functio\functio\obj\Debug\functio.pdb
